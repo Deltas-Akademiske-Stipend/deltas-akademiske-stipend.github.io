@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://das.github.io/tr/sitemap.xml

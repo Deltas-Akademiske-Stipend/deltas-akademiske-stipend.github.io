@@ -1,0 +1,121 @@
+baseURL: "https://das.github.io/tr/"
+title: DAS
+paginate: 10
+theme: PaperMod
+copyright: " "
+publishDir: docs
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: true
+buildExpired: false
+pygmentsUseClasses: true
+enableEmoji: true
+
+
+minify:
+    disableXML: true
+    # minifyOutput: true
+
+languages:
+    en:
+        languageName: ":flag_gb: English"
+        weight: 1
+        taxonomies:
+          category: categories
+          tag: tags
+          series: series
+        profileMode:
+          enabled: true
+          title: DAS
+          imageUrl: "cover.png"
+          imageTitle: 
+          imageWidth: 440
+          imageHeight: 450
+          subtitle: ""
+        menu:
+          main:   
+          - name: Documents
+            url: documents/
+            weight: 5  
+          - name: About
+            url: about/
+            weight: 10
+
+    tr:
+        languageName: ":flag_no: Norsk"
+        weight: 2
+        title: DAS
+        taxonomies:
+          category: NOcategories
+          tag: NOtags
+          series: NOseries
+        profileMode:
+          enabled: true
+          title: DAS
+          imageUrl: "cover.png"
+          imageTitle: test
+          imageWidth: 440
+          imageHeight: 450
+          subtitle: ""
+        menu:
+          main:   
+          - name: Dokumenter
+            url: documents/
+            weight: 5  
+          - name: Om
+            url: about/
+            weight: 10
+
+    
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+
+
+
+params:
+    # env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    description: "DAS"
+    author: 
+
+    defaultTheme: auto
+    # disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    displayFullLangName: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: true
+    ShowToc: false
+    cover:
+        responsiveImages: true
+        hiddenInSingle: true
+    # hidesummary: true
+    # comments: true
+
+    # images: ["papermod-cover.png"]
+
+    # homeInfoParams:
+    #     Title: The art of mathematics
+    #     Content: > 
+    #               ![Error loading image](cover.png)
+                 
+
+
+
+taxonomies:
+    category: categories
+    tag: tags
+
+markup:
+     goldmark:
+        renderer:
+            unsafe: true
+
+
+    

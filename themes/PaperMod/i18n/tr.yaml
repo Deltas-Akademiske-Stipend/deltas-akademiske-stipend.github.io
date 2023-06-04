@@ -1,0 +1,25 @@
+- id: prev_page
+  translation: "Forrige side"
+
+- id: next_page
+  translation: "Neste side"
+
+- id: read_time
+  translation:
+    one : "1 minutt"
+    other: "{{ .Count }} minutter"
+
+- id: toc
+  translation: "Innholdsfortegnelse"
+
+- id: translations
+  translation: "Oversettelser"
+
+- id: home
+  translation: "Hjem"
+
+- id: code_copy
+  translation: "Kopier"
+
+- id: code_copied
+  translation: "Kopiert!"

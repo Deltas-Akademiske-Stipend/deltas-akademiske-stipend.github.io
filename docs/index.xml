@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DAS</title>
+    <link>https://das.github.io/tr/</link>
+    <description>Recent content on DAS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright> </copyright><atom:link href="https://das.github.io/tr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Criteria</title>
+      <link>https://das.github.io/tr/documents/criteria/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://das.github.io/tr/documents/criteria/</guid>
+      <description>TBA</description>
+    </item>
+    
+    <item>
+      <title>Purpose</title>
+      <link>https://das.github.io/tr/documents/purpose/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://das.github.io/tr/documents/purpose/</guid>
+      <description>TBA</description>
+    </item>
+    
+    <item>
+      <title>Copyright</title>
+      <link>https://das.github.io/tr/documents/copyright/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://das.github.io/tr/documents/copyright/</guid>
+      <description> Test  </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://das.github.io/tr/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://das.github.io/tr/about/</guid>
+      <description>If there is one thing that is particularily important in Delta, it is a sense of community. Many may have a desire to contribute to the academic part of this community, especially teaching what they can to those who need it, but many need a little push over the threshold, or a little financial incentive. Delta&amp;rsquo;s academic scholarship (DAS) aims to be this incentive, the little extra motivation to contribute to Delta&amp;rsquo;s academic community.</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>
