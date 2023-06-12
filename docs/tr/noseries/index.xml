@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NOseries on DAS</title>
-    <link>https://das.github.io/tr/tr/noseries/</link>
+    <link>https://deltas-akademiske-stipend.github.io/tr/noseries/</link>
     <description>Recent content in NOseries on DAS</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright> </copyright><atom:link href="https://das.github.io/tr/tr/noseries/index.xml" rel="self" type="application/rss+xml" />
+    <copyright> </copyright><atom:link href="https://deltas-akademiske-stipend.github.io/tr/noseries/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

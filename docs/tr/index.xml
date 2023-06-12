@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DAS</title>
-    <link>https://das.github.io/tr/tr/</link>
+    <link>https://deltas-akademiske-stipend.github.io/tr/</link>
     <description>Recent content on DAS</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright> </copyright><atom:link href="https://das.github.io/tr/tr/index.xml" rel="self" type="application/rss+xml" />
+    <copyright> </copyright><atom:link href="https://deltas-akademiske-stipend.github.io/tr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Criteria</title>
-      <link>https://das.github.io/tr/tr/documents/criteria/</link>
+      <link>https://deltas-akademiske-stipend.github.io/tr/documents/criteria/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://das.github.io/tr/tr/documents/criteria/</guid>
+      <guid>https://deltas-akademiske-stipend.github.io/tr/documents/criteria/</guid>
       <description>TBA</description>
     </item>
     
     <item>
       <title>Formål</title>
-      <link>https://das.github.io/tr/tr/documents/purpose/</link>
+      <link>https://deltas-akademiske-stipend.github.io/tr/documents/purpose/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://das.github.io/tr/tr/documents/purpose/</guid>
+      <guid>https://deltas-akademiske-stipend.github.io/tr/documents/purpose/</guid>
       <description>TBA</description>
     </item>
     
     <item>
       <title>Opphavsrettigheter</title>
-      <link>https://das.github.io/tr/tr/documents/copyright/</link>
+      <link>https://deltas-akademiske-stipend.github.io/tr/documents/copyright/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://das.github.io/tr/tr/documents/copyright/</guid>
+      <guid>https://deltas-akademiske-stipend.github.io/tr/documents/copyright/</guid>
       <description> Test  </description>
     </item>
     
     <item>
       <title>Om</title>
-      <link>https://das.github.io/tr/tr/about/</link>
+      <link>https://deltas-akademiske-stipend.github.io/tr/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://das.github.io/tr/tr/about/</guid>
+      <guid>https://deltas-akademiske-stipend.github.io/tr/about/</guid>
       <description>Er det en ting som viktig i Delta så er det fellesskap. Mange har kanskje et ønske om å bidra til den faglige seksjonen av dette fellesskapet, spesielt det å lære bort det man kan til de som trenger det, men mange trenger et lite dytt over dørstokken, eller et lite økonomisk insentiv. Deltas akademiske stipend (DAS) har som formål å være dette incentivet, den lille ekstra motivasjonen til å bidra til Deltas faglige fellesskap.</description>
     </item>
     

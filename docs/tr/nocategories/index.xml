@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NOcategories on DAS</title>
-    <link>https://das.github.io/tr/tr/nocategories/</link>
+    <link>https://deltas-akademiske-stipend.github.io/tr/nocategories/</link>
     <description>Recent content in NOcategories on DAS</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright> </copyright><atom:link href="https://das.github.io/tr/tr/nocategories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright> </copyright><atom:link href="https://deltas-akademiske-stipend.github.io/tr/nocategories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

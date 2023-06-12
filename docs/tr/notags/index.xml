@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NOtags on DAS</title>
-    <link>https://das.github.io/tr/tr/notags/</link>
+    <link>https://deltas-akademiske-stipend.github.io/tr/notags/</link>
     <description>Recent content in NOtags on DAS</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright> </copyright><atom:link href="https://das.github.io/tr/tr/notags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright> </copyright><atom:link href="https://deltas-akademiske-stipend.github.io/tr/notags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
