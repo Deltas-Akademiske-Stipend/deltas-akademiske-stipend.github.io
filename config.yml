@@ -19,29 +19,6 @@ minify:
     # minifyOutput: true
 
 languages:
-    en:
-        languageName: ":flag_gb: English"
-        weight: 2
-        taxonomies:
-          category: categories
-          tag: tags
-          series: series
-        profileMode:
-          enabled: true
-          title: Deltas Academic Stipend
-          imageUrl: "cover.png"
-          imageTitle: 
-          imageWidth: 440
-          imageHeight: 450
-          subtitle: ""
-        menu:
-          main:   
-          - name: Documents
-            url: documents/
-            weight: 5  
-          - name: About
-            url: about/
-            weight: 10
 
     tr:
         languageName: ":flag_no: Norsk"
@@ -67,6 +44,31 @@ languages:
           - name: Om
             url: about/
             weight: 10
+    en:
+        languageName: ":flag_gb: English"
+        weight: 2
+        taxonomies:
+          category: categories
+          tag: tags
+          series: series
+        profileMode:
+          enabled: true
+          title: Deltas Academic Stipend
+          imageUrl: "cover.png"
+          imageTitle: 
+          imageWidth: 440
+          imageHeight: 450
+          subtitle: ""
+        menu:
+          main:   
+          - name: Documents
+            url: documents/
+            weight: 5  
+          - name: About
+            url: about/
+            weight: 10
+
+
 
     
 outputs:

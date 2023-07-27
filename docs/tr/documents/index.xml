@@ -7,12 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright><atom:link href="https://deltas-akademiske-stipend.github.io/tr/documents/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Criteria</title>
+      <title>Retningslinjer</title>
       <link>https://deltas-akademiske-stipend.github.io/tr/documents/criteria/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://deltas-akademiske-stipend.github.io/tr/documents/criteria/</guid>
-      <description>TBA</description>
+      <description>For å legge noen tekniske føringer, har DAS valgt å sette følgende krav. Se også side om opphavsrettigheter.
+ Bidragets forfatter må være en studerende Deltager, altså medlem i Linjeforeningen Delta som er underveis i studieforløpet. Bidraget skal skrives i TeX (mal kan lastes ned her. Man må ikke bruke malen når man leverer, men bidraget vil overføres og kompileres med malen før publikasjon, så det sparer oss for endel arbeid om man bruker malen fra starten av.</description>
     </item>
     
     <item>
@@ -21,7 +22,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://deltas-akademiske-stipend.github.io/tr/documents/purpose/</guid>
-      <description>TBA</description>
+      <description>Er det en ting som viktig i Delta så er det fellesskap. Mange har kanskje et ønske om å bidra til den faglige seksjonen av dette fellesskapet – spesielt det å lære bort det man kan til de som trenger det – men, mange trenger et lite dytt over dørstokken, eller et lite økonomisk insentiv. Deltas akademiske stipend (DAS) har som formål å være dette insentivet, den lille ekstra motivasjonen til å bidra til Deltas faglige fellesskap.</description>
     </item>
     
     <item>
@@ -30,7 +31,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://deltas-akademiske-stipend.github.io/tr/documents/copyright/</guid>
-      <description> Test  </description>
+      <description>Ved innsending overføres bidragets opphavsrettigheter i sin helhet til Deltas Akademiske Stipend (DAS).
+DAS vil i etterkant kunne distribuere og bruke verket som ønsket, men alltid med hensikt innenfor formålsparagrafen. DAS vil også kunne oversette verket til andre språk for å gjøære materialet mer tilgjengelig. Forfatter vil alltid bli kreditert i verket, og det vil aldri endres hvem som er verkets forfatter, eller gjøre vesentlige endringer uten at forfatter er informert og en del av prosessen.</description>
     </item>
     
   </channel>
